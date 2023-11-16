@@ -1,0 +1,13 @@
+img {
+    height: 150px;
+    width: 150px;
+}
+
+Button {
+    padding: 5px;
+    margin: 5px;
+}
+
+body {
+    background-color: khaki;
+}
